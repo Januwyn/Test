@@ -15,3 +15,4 @@ while IFS='|' read a b c d e f g h i j; do
   echo "$counter $c"
   
 done < rhodes
+#nur eine änderung für git
